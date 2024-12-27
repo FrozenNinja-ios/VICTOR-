@@ -14,7 +14,9 @@ Nota: Não sou responsável se o seu dispositivo fizer bootloop. Por favor, faç
 # FUNCIONALIDADES
 
 •IOS 17.0+
+
 •Habilite a Ilha Dinâmica em qualquer dispositivo
+
 •Habilite gestos do iPhone X em iPhone SEs
 •Alterar o nome do modelo do dispositivo (ou seja, o que aparece no aplicativo Configurações)
 •Ativar sinal sonoro de inicialização
